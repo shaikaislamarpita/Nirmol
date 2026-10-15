@@ -3,7 +3,8 @@
   "services": {
     "jobs": {
       "root": "jobs",
-      "runtime": "python"
+      "runtime": "python",
+      "entrypoint": "main.py"
     },
     "web": {
       "root": "web",
